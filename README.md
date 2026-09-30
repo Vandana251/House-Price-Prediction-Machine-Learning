@@ -41,8 +41,8 @@ The dataset (`House Price Prediction Dataset.csv`) includes features such as:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Vandana251/House-Price-Prediction.git
-   cd House-Price-Prediction
+   git clone https://github.com/Vandana251/House-Price-Prediction-Machine-Learning.git
+   cd House-Price-Prediction-Machine-Learning
    ```
 
 2. **Install required packages:**
